@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with QuizBees
 
-This project 
+This project is a small app for having fun in preset questions data.
 
 ## Available Scripts
 
